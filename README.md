@@ -1,8 +1,5 @@
 # GoToon
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/b92c/gotoon.svg)](https://pkg.go.dev/github.com/b92c/gotoon)
-[![Go Report Card](https://goreportcard.com/badge/github.com/b92c/gotoon)](https://goreportcard.com/report/github.com/b92c/gotoon)
-
 Token-Optimized Object Notation encoder/decoder for Go with intelligent nested object handling.
 
 TOON is a compact, YAML-like format designed to reduce token usage when sending data to LLMs. This package achieves **40-60% token reduction** compared to JSON while maintaining full round-trip fidelity.
